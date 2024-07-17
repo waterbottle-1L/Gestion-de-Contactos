@@ -1,0 +1,14 @@
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.AssemblyInfoInputs.cache
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.AssemblyInfo.cs
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.csproj.CoreCompileInputs.cache
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\bin\Debug\net8.0\Gestion_de_Contactos.exe
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\bin\Debug\net8.0\Gestion_de_Contactos.deps.json
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\bin\Debug\net8.0\Gestion_de_Contactos.runtimeconfig.json
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\bin\Debug\net8.0\Gestion_de_Contactos.dll
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\bin\Debug\net8.0\Gestion_de_Contactos.pdb
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.dll
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\refint\Gestion_de_Contactos.dll
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.pdb
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\Gestion_de_Contactos.genruntimeconfig.cache
+C:\Users\roamc\source\repos\Gestion_de_Contactos\Gestion_de_Contactos\obj\Debug\net8.0\ref\Gestion_de_Contactos.dll
